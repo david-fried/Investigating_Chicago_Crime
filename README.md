@@ -75,7 +75,7 @@ I performed several multiple regression analysis on economic, health, and birth 
     /# Regressing neighborhood homicide rate (per 100k) on the Unemployment Rate.
     /# regression(x, y, x_label, y_label)
     regression(final_df['Unemployment'], final_df['Homicide_rate_log'], 'Unemployment (%)', 'Log Units - Homicide Rate')
-
+    
 ![Regressing](</Images/Unemployment_(%)_predicting_Log_Units_-_Homicide_Rate.png>)
 
 ![Interpretation](</Images/Example Intepretation.PNG>)

@@ -76,7 +76,8 @@ I performed several multiple regression analysis on economic, health, and birth 
     /# regression(x, y, x_label, y_label)
     regression(final_df['Unemployment'], final_df['Homicide_rate_log'], 'Unemployment (%)', 'Log Units - Homicide Rate')
 
-![Regressing Neighborhood Homicide Rate in Log Units on the Unemployment Rate](/Images/Unemployment_(%)_predicting_Log_Units_-_Homicide_Rate.png)
+![Regressing](/Images/Unemployment_(%)_predicting_Log_Units_-_Homicide_Rate.png)
+
 ![Interpretation](/Images/Example Intepretation.PNG)
 
 
@@ -122,7 +123,7 @@ I performed several multiple regression analysis on economic, health, and birth 
         ax.set_zlabel(ylabel)
         plt.show()
  
-![3D Regression](/Images/After Log Transformation - Homicide per 100k on Unemployment and TeenBirthRate View)
+![3D Regression](/Images/After Log Transformation - Homicide per 100k on Unemployment and TeenBirthRate View.png)
 
 
 ## Visualizing the Neighborhood Homicide Rate

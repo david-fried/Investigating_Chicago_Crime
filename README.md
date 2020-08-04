@@ -18,7 +18,7 @@ I performed several multiple regression analysis on economic, health, and birth 
     final_df['Homicide_rate_log'].hist(bins=20)
 
 #### Distribution is more normal after transforming homicide rate into log units.
-![Histogram of After Log Transformation](/Images/Homicide Rate - Histogram (Log Units).png)
+![Histogram of After Log Transformation]("/Images/Homicide Rate - Histogram (Log Units).png")
 
 
 ### Simple Regression Function

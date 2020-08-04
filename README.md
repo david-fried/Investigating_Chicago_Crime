@@ -18,7 +18,7 @@ I performed several multiple regression analysis on economic, health, and birth 
     final_df['Homicide_rate_log'].hist(bins=20)
 
 #### Distribution is more normal after transforming homicide rate into log units.
-![Histogram of After Log Transformation]("/Images/Homicide Rate - Histogram (Log Units).png")
+![Histogram of After Log Transformation](</Images/Homicide Rate - Histogram (Log Units).png>)
 
 
 ### Simple Regression Function
@@ -76,9 +76,9 @@ I performed several multiple regression analysis on economic, health, and birth 
     /# regression(x, y, x_label, y_label)
     regression(final_df['Unemployment'], final_df['Homicide_rate_log'], 'Unemployment (%)', 'Log Units - Homicide Rate')
 
-![Regressing](/Images/Unemployment_(%)_predicting_Log_Units_-_Homicide_Rate.png)
+![Regressing](</Images/Unemployment_(%)_predicting_Log_Units_-_Homicide_Rate.png>)
 
-![Interpretation](/Images/Example Intepretation.PNG)
+![Interpretation](</Images/Example Intepretation.PNG>)
 
 
 
@@ -123,7 +123,7 @@ I performed several multiple regression analysis on economic, health, and birth 
         ax.set_zlabel(ylabel)
         plt.show()
  
-![3D Regression](/Images/After Log Transformation - Homicide per 100k on Unemployment and TeenBirthRate View.png)
+![3D Regression](</Images/After Log Transformation - Homicide per 100k on Unemployment and TeenBirthRate View.png>)
 
 
 ## Visualizing the Neighborhood Homicide Rate
@@ -187,4 +187,4 @@ I performed several multiple regression analysis on economic, health, and birth 
     fig.add_layer(nh_layer)
     fig
     
- ![Visualization Neighborhood Homicide Rate](Images/city_of_chicago_crime_map.png)
+ ![Visualization Neighborhood Homicide Rate](<Images/city_of_chicago_crime_map.png>)

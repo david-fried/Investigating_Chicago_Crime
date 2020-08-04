@@ -11,7 +11,7 @@ I performed several multiple regression analysis on economic, health, and birth 
 ### Histogram of Homicide Rate
 #### Note the positive skew.
     final_df['Homicide_rate_per_100k'].hist(bins=20)
-![Histogram of Homicide Rate](/Images/Homicide Rate - Histogram (Positive Skew).png)
+![Histogram of Homicide Rate](</Images/Homicide Rate - Histogram (Positive Skew).png>)
 
     /# log transformation + constant to make homicide variable more normally distributed
     final_df['Homicide_rate_log'] = final_df['Homicide_rate_per_100k'].apply(lambda x: np.log(x+1))

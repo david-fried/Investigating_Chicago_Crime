@@ -78,7 +78,7 @@ I performed several multiple regression analysis on economic, health, and birth 
 
 ![Regressing](Images/Regressing_Log_Homicide_On_Unemployment.png)
 
-![Interpretation](</Images/Example Intepretation.PNG>)
+![Interpretation](</Images/Interpretation.PNG>)
 
 
 

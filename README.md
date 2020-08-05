@@ -76,7 +76,7 @@ I performed several multiple regression analysis on economic, health, and birth 
     /# regression(x, y, x_label, y_label)
     regression(final_df['Unemployment'], final_df['Homicide_rate_log'], 'Unemployment (%)', 'Log Units - Homicide Rate')
 
-![Regressing](<Images/Unemployment_(%)_predicting_Log_Units_-_Homicide_Rate.png>)
+![Regressing](Images/Regressing_Log_Homicide_On_Unemployment.png)
 
 ![Interpretation](</Images/Example Intepretation.PNG>)
 

@@ -1,5 +1,5 @@
 ## Visualization of Crime
-Visualization of crime statistics for Chicago Neighborhoods, including a neighborhood crime heatmap and a 3D visualization of multiple regression.
+Analysis and visualization of crime statistics for Chicago Neighborhoods, including a neighborhood crime heatmap and a 3D visualization of multiple regression.
 
 ## Description
 This work is part of a larger class project for NorthWestern Data Science Bootcamp. Everything in this repository represents my work on the project. My role on the project included analyzes relationships between socioeconomic influoences of Chicago neighborhood crime. Specifically, I investigated economic, health, and birth factors on the Chicago homicide rate (per 100,0000 individuals; age-adjusted). There are 77 Chicago neighborhoods. Data was gathered from the Chicago Data Portal. I included the group powerpoint slides that were presented in class on July 28, 2020.

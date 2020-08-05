@@ -123,7 +123,7 @@ I performed several multiple regression analysis on economic, health, and birth 
         ax.set_zlabel(ylabel)
         plt.show()
  
-![3D Regression](</Images/After Log Transformation - Homicide per 100k on Unemployment and TeenBirthRate View.png>)
+![3D Regression](Images/Log_Homicide_On_Unemployment_And_TeenBirth.png)
 
 
 ## Visualizing the Neighborhood Homicide Rate
